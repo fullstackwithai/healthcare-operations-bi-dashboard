@@ -1,20 +1,12 @@
+![Healthcare Operations BI Dashboard premium hero](assets/readme-hero.svg)
+
 # Healthcare Operations BI Dashboard
 
 > Healthcare operations dashboard for patient flow, appointment capacity, department performance, wait times, and service efficiency visibility.
 
 Built by **Arsim Shefkiu** under **FullStackWithAI**.
 
-<p align="center">
-  <img alt="Healthcare BI" src="https://img.shields.io/badge/Healthcare%20BI-Operations%20Dashboard-0EA5E9?style=for-the-badge" />
-  <img alt="Patient Flow" src="https://img.shields.io/badge/Patient%20Flow-Service%20Efficiency-0F172A?style=for-the-badge" />
-  <img alt="FullStackWithAI" src="https://img.shields.io/badge/FullStackWithAI-Care%20Operations-38BDF8?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <a href="https://www.designhubmk.com"><strong>www.designhubmk.com</strong></a> ·
-  <strong>arsim@designhubmk.com</strong> ·
-  <a href="https://github.com/fullstackwithai"><strong>GitHub: fullstackwithai</strong></a>
-</p>
+[www.designhubmk.com](https://www.designhubmk.com) · arsim@designhubmk.com · [GitHub: fullstackwithai](https://github.com/fullstackwithai)
 
 ---
 
@@ -72,6 +64,8 @@ This repository is presented as a premium healthcare operations BI dashboard for
 
 ```text
 healthcare-operations-bi-dashboard/
+├── assets/
+│   └── readme-hero.svg
 ├── data/
 │   └── healthcare-operations-sample.csv
 ├── sql/
@@ -97,12 +91,6 @@ healthcare-operations-bi-dashboard/
 |---|---|
 | I build operations dashboards that turn service data into clearer planning and performance insight. | **FullStackWithAI** represents premium portfolio work around practical BI dashboards, polished presentation, and AI-assisted execution. |
 
-<p align="center">
-  <strong>Theme:</strong> Healthcare BI · Patient Flow · Service Efficiency · Operations Intelligence
-</p>
+**Theme:** Healthcare BI · Patient Flow · Service Efficiency · Operations Intelligence
 
-<p align="center">
-  <a href="https://www.designhubmk.com"><strong>www.designhubmk.com</strong></a> ·
-  <strong>arsim@designhubmk.com</strong> ·
-  <a href="https://github.com/fullstackwithai"><strong>GitHub: fullstackwithai</strong></a>
-</p>
+[www.designhubmk.com](https://www.designhubmk.com) · arsim@designhubmk.com · [GitHub: fullstackwithai](https://github.com/fullstackwithai)
